@@ -140,7 +140,7 @@ return [
     */
 
     'maintenance' => [
-        'driver' => 'database',
+        'driver' => env('APP_MAINTENANCE_DRIVER', 'file'),
     ],
 
     /*
