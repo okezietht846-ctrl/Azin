@@ -1,0 +1,11 @@
+[31-Oct-2024 15:22:34 America/Eirunepe] PHP Fatal error:  Cannot make non static method Illuminate\Support\Enumerable::all() static in class Illuminate\Database\Eloquent\Model in /home/aztradin/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 671
+[09-Nov-2024 23:10:21 America/Eirunepe] PHP Fatal error:  Trait "Coderflex\LaravelTicke6navit\Concerns\HasTickets" not found in /home/aztradin/public_html/app/Models/User.php on line 17
+[09-Nov-2024 23:10:27 America/Eirunepe] PHP Fatal error:  Trait "Coderflex\LaravelTicke6navit\Concerns\HasTickets" not found in /home/aztradin/public_html/app/Models/User.php on line 17
+[09-Nov-2024 23:11:20 America/Eirunepe] PHP Fatal error:  Trait "Coderflex\LaravelTicke6navit\Concerns\HasTickets" not found in /home/aztradin/public_html/app/Models/User.php on line 17
+[09-Nov-2024 23:11:27 America/Eirunepe] PHP Fatal error:  Trait "Coderflex\LaravelTicke6navit\Concerns\HasTickets" not found in /home/aztradin/public_html/app/Models/User.php on line 17
+[09-Nov-2024 23:11:31 America/Eirunepe] PHP Fatal error:  Trait "Coderflex\LaravelTicke6navit\Concerns\HasTickets" not found in /home/aztradin/public_html/app/Models/User.php on line 17
+[09-Nov-2024 23:11:38 America/Eirunepe] PHP Fatal error:  Trait "Coderflex\LaravelTicke6navit\Concerns\HasTickets" not found in /home/aztradin/public_html/app/Models/User.php on line 17
+[09-Nov-2024 23:11:50 America/Eirunepe] PHP Fatal error:  Trait "Coderflex\LaravelTicke6navit\Concerns\HasTickets" not found in /home/aztradin/public_html/app/Models/User.php on line 17
+[09-Nov-2024 23:11:53 America/Eirunepe] PHP Fatal error:  Trait "Coderflex\LaravelTicke6navit\Concerns\HasTickets" not found in /home/aztradin/public_html/app/Models/User.php on line 17
+[09-Nov-2024 23:12:03 America/Eirunepe] PHP Fatal error:  Trait "Coderflex\LaravelTicke6navit\Concerns\HasTickets" not found in /home/aztradin/public_html/app/Models/User.php on line 17
+[09-Nov-2024 23:12:06 America/Eirunepe] PHP Fatal error:  Trait "Coderflex\LaravelTicke6navit\Concerns\HasTickets" not found in /home/aztradin/public_html/app/Models/User.php on line 17
